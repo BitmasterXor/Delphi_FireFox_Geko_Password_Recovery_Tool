@@ -62,5 +62,5 @@ Need help? Open an issue in this repository!
 Free to use and modify for personal or educational projects.  
 
 <div align="center">
-Made with ❤️ using Delphi
+Made with ❤️ By BitmasterXor using Delphi Programming Language
 </div>
